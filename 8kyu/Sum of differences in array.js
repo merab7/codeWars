@@ -79,3 +79,4 @@ function shortcut (string) {
  return string.split('').filter(x=>!vowels.includes(x)).join('')
  
  }
+
